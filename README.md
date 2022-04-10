@@ -39,7 +39,7 @@ As you may know, I'd like to be a trans:rainbow_flag::transgender_symbol:. But t
 - `整活`(I don't know how to put it in English... Maybe `Playing meme` is a suitable expression.)
   - It's really fun!
     - [Here's one of my work.](https://cdn.jsdelivr.net/gh/Bro-Xun/sources@main/downloads/%E5%A4%A7%E6%B5%B7%E8%88%AA%E8%A1%8C%E9%9D%A0%E8%88%B5%E6%89%8B%20-%20%E5%85%AC%E5%BC%80%E7%89%88.pdf)
-  - It also help me temporarily get rid of despair caused by Our Bad Experience in PRC. As life is harder for us, it can relive our tensions.
+  - It also help me temporarily get rid of despair caused by Our Bad Experience in PRC. As life is harder for us, it can relieve our tensions.
 - Music:musical_note:
   - I quite like Pure Music & English Music.
   - Here is my favourite Chinese music:
