@@ -55,6 +55,8 @@ As you may know, I'd like to be a trans:rainbow_flag::transgender_symbol:. But t
 
 Welcome to contact me! If you are also a (pre)transgender:transgender_flag: living in PRC, it will be wonderful if we can support each other.:kissing_heart:
 
+> 不向焦虑与抑郁投降，这个世界终会有我们存在的地方。 [From MtF Wiki](https://mtf.wiki/zh-cn/docs/)
+
 - [![Twitter](https://img.shields.io/badge/dynamic/json?color=1DA1F2&label=Twitter&logo=twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DWFA897264&style=for-the-badge)](https://twitter.com/WFA897264)
 - [![Telegram](https://img.shields.io/badge/Telegram-@BroXun-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/BroXun)
 - [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&color=181717&style=for-the-badge&query=$.data.totalSubs&url=https%3a%2f%2fapi.spencerwoo.com%2fsubstats%2f%3fsource%3dgithub%26queryKey%3dBro-Xun)](https://github.com/Bro-Xun)
