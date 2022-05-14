@@ -28,7 +28,7 @@ I am Bro-Xun, a student in NanKing, PRC. (2022/03)
 
 I had decided to be a IT developer or biologist. But now it just seems to be **impossible**[^1].
 
-As you may know, I'd like to be a trans:rainbow_flag::transgender_symbol:. But they are treated badly by most citizens in PRC, I'm afraid of killed because of that[^2]. But I am really eager to be a normal little girl[^3]. That may be seriously danger in PRC.
+As you may know, I'm a trans:rainbow_flag::transgender_symbol:. But they are treated badly by most citizens in PRC, I'm afraid of killed because of that[^2]. But I am really eager to be a normal little girl[^3]. That may be seriously danger in PRC.
 
 ### My hobbies
 - Coding:desktop_computer:	
